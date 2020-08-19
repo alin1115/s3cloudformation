@@ -1,4 +1,5 @@
 Cloudformation S3bucket creation with Versioning Enabled and Encryption Enabled. 
+
 The bucket has the following tags : 
         Team = Dev
         Owner = Alina.
