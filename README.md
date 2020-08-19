@@ -6,6 +6,7 @@ The bucket has the following tags :
         
         
 Versioning enabled on S3 bucket
+
 Publicly not accessible
 
 Prerequisites:
