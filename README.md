@@ -18,7 +18,7 @@ AWS Secret Access Key [None]:
 Default region name [None]:
 Default output format [None]:
 
-#  aws cloudformation deploy --no-fail-on-empty-changeset     --template-file cloud.yaml     --stack-name s3-cfn-example-stack
+#  aws cloudformation deploy --no-fail-on-empty-changeset     --template-file s3cloudformation/cloud.yaml     --stack-name s3-cfn-example-stack
 
 Waiting for changeset to be created..
 Waiting for stack create/update to complete
