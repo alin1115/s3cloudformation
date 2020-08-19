@@ -1,7 +1,7 @@
 Cloudformation S3bucket creation with Versioning Enabled and Encryption Enabled. 
 The bucket has the following tags : 
         Team = Dev
-        Owner = <your-name>
+        Owner = Alina
 Versioning enabled on S3 bucket
 Publicly not accessible
 
